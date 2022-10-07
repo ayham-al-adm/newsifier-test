@@ -8,3 +8,4 @@ You can run this project as a traditional Laravel project
 - Go back into laravel project and go to resources>gif-plugin>gif-plugin.js.
 - Find the row 87 and replace it with NodeJs url and port number.
 - After run -php artisan migrate- you can start the app.
+- Make sure you run -npm run dev- command for laravel vite in development environment .
